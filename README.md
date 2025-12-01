@@ -29,3 +29,7 @@ The dataset has been summarized in
 -Did the team perform better in the first half or second half of games?
 
 -Should a coach prioritize offense or defense to increase the number of wins?
+
+
+<h2>Findings</h2>
+LLM Comparison A structured comparison between ChatGPT and Gemini was performed using the same prompts. Their responses were assessed for accuracy, depth, and reasoning approach. Gemini generally provided more strategic perspectives, whereas ChatGPT excelled in precise numerical analysis.
